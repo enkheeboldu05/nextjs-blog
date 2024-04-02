@@ -13,9 +13,9 @@ export default function FirstPost() {
         <title>{siteTitle}</title>
       </Head>
       <section className={utilStyles.headingMd}>
-        <p>[Your Self Introduction]</p>
+        <p>My name is Enkhbold Myagmarjav.</p>
         <p>
-          
+          I am an international student who lives in South Korea, Seoul. Currently I am freshman student of Information Systems Department in Hanyang University.
         </p>
       </section>
 
